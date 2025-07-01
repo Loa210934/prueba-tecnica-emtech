@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+#root {
+min-width: 200px;
+}
