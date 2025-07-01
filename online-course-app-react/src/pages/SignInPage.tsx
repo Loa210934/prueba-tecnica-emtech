@@ -63,7 +63,7 @@ export default function LoginPage() {
               { required: true, message: 'Por favor ingresa tu correo' },
               { type: 'email', message: 'Ingresa un correo válido' },
             ]}>
-            <Input placeholder='correo@ejemplo.com' />
+            <Input placeholder='test@test.com' />
           </Form.Item>
 
           <Form.Item
@@ -72,7 +72,7 @@ export default function LoginPage() {
             rules={[
               { required: true, message: 'Por favor ingresa tu contraseña' },
             ]}>
-            <Input.Password placeholder='Contraseña' />
+            <Input.Password placeholder='test' />
           </Form.Item>
 
           <Form.Item>
