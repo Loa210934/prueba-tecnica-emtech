@@ -76,5 +76,5 @@ cd prueba-tecnica-emtech
 
 Sin embargo este es un Usuario ya registrado con datos de ejemplo 
 
-email: test@test.com
-password: test
+*email: test@test.com*
+*password: test*
